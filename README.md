@@ -1,4 +1,4 @@
-# 《Jekyll 小书》第 2 章源码
+# 《Jekyll 小书》第 3 章源码
 
 如果想购买《Jekyll 小书》，请访问 <http://jekyll-china.com>。
 
