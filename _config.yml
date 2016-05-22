@@ -25,3 +25,5 @@ github_username: andorchen
 
 # Build settings
 markdown: kramdown
+
+exclude: ["Gemfile", "Gemfile.lock", "README.md", "LICENSE"]
